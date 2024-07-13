@@ -1,0 +1,2 @@
+[console_scripts]
+chord_matrix = chord_matrix.main:main

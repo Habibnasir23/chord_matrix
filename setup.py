@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='chord_matrix',
-    version='0.1.0',
+    version='0.1.1',
     author='Habib Nasir',
     author_email='habibnasir23@gmail.com',
     description='A package to generate a matrix for chord diagrams',
